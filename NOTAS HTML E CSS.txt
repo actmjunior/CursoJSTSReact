@@ -1,0 +1,23 @@
+HTML
+
+Para ativar o Live Server no visual studio Code, basta usar as teclas CTRL+SHIFT+P e digitar live server ou clicar no ícone go live no rodapé do VSCode.
+
+CTRL+SHIFT+I o VSCode formata o documento do código
+
+CTRL+U para ver o código fonte da página
+
+No vscode, quando vc inicia um documento com ! ele mesmo preenche os código básicos do HTML
+
+No vscode quando vc digita loren, o próprio vscode cria um texto em latim.
+
+A tag <meta name="viewport" content="width=device-width, initial-scale=1.0"> é usada para dispositivos móveis
+
+As tags h1 são utilizadas para cabeçalhos e são usadas por buscadores, as tags vão de 1 a 6, onde 1 é a mais importante
+e 6 a menos importante. Eles podem ser utilzados para Titulos e subtitulos até o 6º nível. Você pode ter vários h2 dentro
+de um h1
+
+
+
+
+
+

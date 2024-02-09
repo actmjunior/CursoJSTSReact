@@ -1,0 +1,52 @@
+1. Structure:
+- `<!DOCTYPE html>`: Defines the HTML version.
+- `<html>`: Root element of an HTML page.
+- `<head>`: Contains metadata and document settings.
+- `<title>`: Sets the title of the page (displayed in the browser tab).
+- `<body>`: Contains the visible content of the page.
+
+2. Text Formatting:
+- `<h1>` to `<h6>`: Headings (h1 being the highest).
+- `<p>`: Paragraph.
+- `<strong>`: Bold text.
+- `<em>`: Italicized text.
+- `<u>`: Underlined text.
+- `<br>`: Line break.
+- `<hr>`: Horizontal line.
+
+3. Links and Images:
+- `<a href="URL">text</a>`: Creates a hyperlink.
+- `<img src="image.jpg" alt="description">`: Embeds an image.
+
+4. Lists:
+- `<ul>`: Unordered (bullet) list.
+- `<ol>`: Ordered (numbered) list.
+- `<li>`: List item.
+
+5. Tables:
+- `<table>`: Creates a table.
+- `<tr>`: Table row.
+- `<th>`: Table header cell.
+- `<td>`: Table data cell.
+- `<caption>`: Table caption.
+
+6. Forms:
+- `<form>`: Creates a form.
+- `<input type="text">`: Text input field.
+- `<input type="checkbox">`: Checkbox.
+- `<input type="radio">`: Radio button.
+- `<input type="submit">`: Submit button.
+- `<select>`: Dropdown list.
+- `<textarea>`: Multiline text input.
+
+7. Divisions and Spans:
+- `<div>`: Divides the content into sections.
+- `<span>`: Inline container for a small section of text.
+
+8. Semantic Elements:
+- `<header>`: Represents the header of a document or a section.
+- `<nav>`: Defines a set of navigation links.
+- `<article>`: Represents independent content.
+- `<section>`: Defines a section in a document.
+- `<aside>`: Defines content aside from the main content.
+- `<footer>`: Represents the footer of a document or a section.
